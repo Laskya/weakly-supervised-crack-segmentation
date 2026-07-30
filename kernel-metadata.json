@@ -11,9 +11,7 @@
   "dataset_sources": [
     "lakshaymiddha/crack-segmentation-dataset"
   ],
-  "competition_sources": [
-    "dl-2025-project-2-pro"
-  ],
+  "competition_sources": [],
   "kernel_sources": [],
   "model_sources": []
 }
