@@ -1,0 +1,19 @@
+{
+  "id": "laskowskijakub/weakly-supervised-crack-segmentation",
+  "title": "Weakly-supervised crack segmentation",
+  "code_file": "crack_segmentation_weakly_supervised.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "lakshaymiddha/crack-segmentation-dataset"
+  ],
+  "competition_sources": [
+    "dl-2025-project-2-pro"
+  ],
+  "kernel_sources": [],
+  "model_sources": []
+}
